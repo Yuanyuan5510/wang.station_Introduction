@@ -8,15 +8,27 @@
 
 
 <url>
-  <loc>https://introduction.yuanyuan5510-692.workers.dev/</loc>
-  <lastmod>2025-10-31T13:50:30+00:00</lastmod>
+  <loc>https://introduction.wangstation.ddns-ip.net</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>  
 </url>  
 
-  
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/404.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.3</priority>  
+</url>  
+
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/example.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>  
+</url>  
+
 
 </urlset>
-
-
-

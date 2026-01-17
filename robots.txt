@@ -4,4 +4,8 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yourdomain.com/sitemap.xml
+# Sitemap
+Sitemap: https://introduction.wangstation.ddns-ip.net/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1

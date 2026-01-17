@@ -1,0 +1,11 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+# Sitemap
+Sitemap: https://introduction.wangstation.ddns-ip.net/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1

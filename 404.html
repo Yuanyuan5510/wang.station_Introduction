@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>页面未找到 - Wang.station</title>
+  <meta name="description" content="抱歉，您访问的页面不存在。">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #f5f7fa 0%, #e4eaf5 50%, #d9e2f0 100%);
+      font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
+    }
+
+    .error-container {
+      text-align: center;
+      padding: 60px;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+      max-width: 500px;
+      animation: fadeInUp 0.6s ease;
+    }
+
+    .error-icon {
+      font-size: 80px;
+      margin-bottom: 20px;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    h1 {
+      color: #1a73e8;
+      font-size: 48px;
+      margin-bottom: 16px;
+      font-weight: 700;
+    }
+
+    p {
+      color: #5f6368;
+      font-size: 18px;
+      margin-bottom: 32px;
+      line-height: 1.6;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 32px;
+      background: linear-gradient(135deg, #1a73e8 0%, #0d47a1 100%);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 12px rgba(26, 115, 232, 0.3);
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(26, 115, 232, 0.4);
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media only screen and (max-width: 600px) {
+      .error-container {
+        padding: 40px 20px;
+        margin: 20px;
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      p {
+        font-size: 16px;
+      }
+
+      .error-icon {
+        font-size: 60px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="error-container">
+    <div class="error-icon">🔍</div>
+    <h1>404</h1>
+    <p>抱歉，您访问的页面不存在。<br>可能已被移动、删除或从未存在。</p>
+    <a href="/" class="btn">返回首页</a>
+  </div>
+</body>
+
+</html>

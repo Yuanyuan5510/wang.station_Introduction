@@ -11,24 +11,56 @@
   <loc>https://introduction.wangstation.ddns-ip.net</loc>
   <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>1.0</priority>  
-</url>  
+  <priority>1.0</priority>
+</url>
+
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/index.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
 
 
 <url>
   <loc>https://introduction.wangstation.ddns-ip.net/404.html</loc>
   <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.3</priority>  
-</url>  
+  <priority>0.3</priority>
+</url>
 
 
 <url>
   <loc>https://introduction.wangstation.ddns-ip.net/example.html</loc>
   <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.5</priority>  
-</url>  
+  <priority>0.5</priority>
+</url>
+
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/baidu_verify_codeva-E708YBSDFh.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/baidu_verify_codeva-sjfcILkpdH.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+
+
+<url>
+  <loc>https://introduction.wangstation.ddns-ip.net/google43b9d6e84ca01727.html</loc>
+  <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
 
 
 </urlset>
